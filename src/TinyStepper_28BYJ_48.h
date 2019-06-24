@@ -11,7 +11,7 @@
 #ifndef TinyStepper_28BYJ_48_h
 #define TinyStepper_28BYJ_48_h
 
-#include <arduino.h>
+#include <Arduino.h>
 #include <stdlib.h>
 
 
